@@ -1,10 +1,10 @@
 
-# Statistics for data science with python
+# Estatistica para análise de dados
 
-Learning Statistics for data science using python and applications in real world.
+Aprenda estatistica usando python em aplicações do mundo real
 
 
-## modules we will use :
+## Vamos utilizar os seguintes módulos :
 
 - Numpy
 - Math
